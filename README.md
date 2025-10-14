@@ -4,7 +4,8 @@ Repositório destinado para envio de circuitos da disciplina de AOC(Arquitetura 
 
 ## Circuitos
 
-| Circuito                             | Descrição                                      |
-|--------------------------------------|------------------------------------------------|
-| [Flip Flop D e JK](Componente%2001/) | Registradores Flip-Flop do tipo D e do tipo JK |
-| [Multiplexador](Componente%2002/)    | Multiplexador de quatro opções de entrada      |
+| Circuito                             | Descrição                                              |
+|--------------------------------------|--------------------------------------------------------|
+| [Flip Flop D e JK](Componente%2001/) | Registradores Flip-Flop do tipo D e do tipo JK         |
+| [Multiplexador](Componente%2002/)    | Multiplexador de quatro opções de entrada              |
+| [XOR](Componente%2003/)              | Porta lógica XOR usando os componentes: AND, NOT, e OR |
