@@ -6,7 +6,7 @@ Os flip-flops são circuitos sequenciais usados para armazenar um bit de informa
 
 O flip-flop D, também conhecido como Data ou Delay, é o tipo mais simples de flip-flop. Ele possui uma única entrada de dado e um clock, e sua função é copiar o valor da entrada D para a saída Q a cada pulso de clock. Dessa forma, o flip-flop D atua como uma pequena célula de memória que armazena o valor lógico presente na entrada no momento do pulso.
 
-![Flip Flop D](/images/d-flip-flop.png)
+![Flip Flop D](images/d-flip-flop.png)
 
 ## Flip Flop JK
 
