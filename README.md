@@ -7,3 +7,4 @@ Repositório destinado para envio de circuitos da disciplina de AOC(Arquitetura 
 | Circuito                             | Descrição                                      |
 |--------------------------------------|------------------------------------------------|
 | [Flip Flop D e JK](Componente%2001/) | Registradores Flip-Flop do tipo D e do tipo JK |
+| [Multiplexador](Componente%2002/)    | Multiplexador de quatro opções de entrada      |
