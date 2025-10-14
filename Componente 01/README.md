@@ -11,3 +11,5 @@ O flip-flop D, também conhecido como Data ou Delay, é o tipo mais simples de f
 ## Flip Flop JK
 
 O flip-flop JK é uma evolução do flip-flop SR, resolvendo o problema do estado inválido. Ele possui duas entradas, J e K, e uma entrada de clock. Dependendo das combinações dessas entradas, o flip-flop JK pode manter, setar, resetar ou inverter o estado atual da saída. Essa versatilidade o torna muito útil em aplicações como contadores binários e circuitos de controle lógico.
+
+![Flip Flop JK](images/jk-flip-flop.png)
