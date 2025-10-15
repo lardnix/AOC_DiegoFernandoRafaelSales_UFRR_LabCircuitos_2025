@@ -17,3 +17,7 @@ O circuito apresentado utiliza de um demultiplexador onde recebe 3 bits de entra
 A memória RAM utiliza 8 registradores de 8 bits cada como células de memória.
 
 ![Registrador](images/register.png)
+
+Cada registrador contém 8 instancias de um D flip-flop para para registrar os 8 bits.
+
+![D](images/d-flip-flop.png)
