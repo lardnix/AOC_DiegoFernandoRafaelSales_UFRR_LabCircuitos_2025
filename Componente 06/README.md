@@ -5,3 +5,9 @@ A memória RAM (Random Access Memory) é um tipo de memória volátil utilizada 
 Diferente da ROM, o conteúdo da RAM é perdido quando o sistema é desligado, sendo usada apenas durante a operação do computador ou circuito. É amplamente empregada em sistemas digitais para armazenar variáveis, pilhas, buffers e dados intermediários de processamento.
 
 ![RAM](images/ram.png)
+
+## Demultiplexador
+
+O circuito apresentado utiliza de um demultiplexador onde recebe 3 bits de entrada e retorna 8 bits de saída.
+
+![Demultiplexador](images/demultiplexer.png)
