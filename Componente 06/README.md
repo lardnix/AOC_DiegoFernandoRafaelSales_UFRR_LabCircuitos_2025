@@ -8,6 +8,12 @@ Diferente da ROM, o conteúdo da RAM é perdido quando o sistema é desligado, s
 
 ## Demultiplexador
 
-O circuito apresentado utiliza de um demultiplexador onde recebe 3 bits de entrada e retorna 8 bits de saída.
+O circuito apresentado utiliza de um demultiplexador onde recebe 3 bits de entrada e retorna 8 bits de saída para poder acessar cada célula de memória correspondente ao index de 3 bits.
 
 ![Demultiplexador](images/demultiplexer.png)
+
+## Registrador
+
+A memória RAM utiliza 8 registradores de 8 bits cada como células de memória.
+
+![Registrador](images/register.png)
