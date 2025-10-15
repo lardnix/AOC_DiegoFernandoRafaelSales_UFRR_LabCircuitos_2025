@@ -11,3 +11,4 @@ Repositório destinado para envio de circuitos da disciplina de AOC(Arquitetura 
 | [XOR](Componente%2003/)                              | Porta lógica XOR usando os componentes: AND, NOT, e OR             |
 | [Somador de 8 bits que soma com 4](Componente%2004/) | Somador de 8 bits que recebe um valor inteiro e soma com o valor 4 |
 | [Memória ROM](Componente%2005/)                      | Memória ROM de 8 bits                                              |
+| [Memória RAM](Componente%2006/)                      | Memória RAM de 8 bits                                              |
