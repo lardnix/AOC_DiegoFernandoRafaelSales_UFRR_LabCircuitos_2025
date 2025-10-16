@@ -12,3 +12,4 @@ Repositório destinado para envio de circuitos da disciplina de AOC(Arquitetura 
 | [Somador de 8 bits que soma com 4](Componente%2004/) | Somador de 8 bits que recebe um valor inteiro e soma com o valor 4 |
 | [Memória ROM](Componente%2005/)                      | Memória ROM de 8 bits                                              |
 | [Memória RAM](Componente%2006/)                      | Memória RAM de 8 bits                                              |
+| [Banco de Registradores](Componente%2007/)           | Banco de Registradores de 8 bits                                   |
