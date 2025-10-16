@@ -21,3 +21,16 @@ A memória RAM utiliza 8 registradores de 8 bits cada como células de memória.
 Cada registrador contém 8 instancias de um D flip-flop para para registrar os 8 bits.
 
 ![D](images/d-flip-flop.png)
+
+## Multiplexador
+
+O multiplexador utilizado recebe 8 entradas de 8 bits cada e um index de 3 bits, e retorna uma saída de 8 bits correspondente ao index. Foi utilizado uma árvore de multiplexadores começando com 8 bits indo para 4 bits, 2 bits e por último 1 bit.
+
+### Multiplexador 8 bits
+![Mul-8bit](images/multiplexer-8bits.png)
+### Multiplexador 4 bits
+![Mul-4bit](images/multiplexer-4bits.png)
+### Multiplexador 2 bits
+![Mul-2bit](images/multiplexer-2bits.png)
+### Multiplexador 1 bit
+![Mul-1bit](images/multiplexer-1bit.png)
