@@ -13,3 +13,4 @@ Repositório destinado para envio de circuitos da disciplina de AOC(Arquitetura 
 | [Memória ROM](Componente%2005/)                      | Memória ROM de 8 bits                                              |
 | [Memória RAM](Componente%2006/)                      | Memória RAM de 8 bits                                              |
 | [Banco de Registradores](Componente%2007/)           | Banco de Registradores de 8 bits                                   |
+| [Somador de 8 bits](Componente%2008/)                | Somador de 8 bits                                                  |
